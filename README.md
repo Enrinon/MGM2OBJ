@@ -10,10 +10,11 @@ A reverse-engineering project focused on understanding and extracting 3D geometr
 <p align="Center">More specifically, Mami Tomoe TPS and the other 2 games</p>
 
 **Features:**
-MGM geometry extraction
 
-Wavefront OBJ export
+•MGM geometry extraction
 
-Python-based conversion tool
+•Wavefront OBJ export
+
+•Python-based conversion tool
 
 I'll say this upfront it's a pretty early version, so you might encounter some bugs.
