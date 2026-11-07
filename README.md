@@ -19,4 +19,4 @@ A reverse-engineering project focused on understanding and extracting 3D geometr
 
 <h1 align="left">Known Issues</h1>
 
-I'll say this upfront it's a pretty early version, so you might encounter some bugs.
+I'll say this, it's a pretty early version, so you might encounter some bugs.
