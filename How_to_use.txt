@@ -1,8 +1,8 @@
 MAMI TPS - EXTRACCION VISUAL STAGE0
 
 Contenido:
-- MGM_converter.py.py : conversor Python reutilizable.
-- stage0_visual.obj + stage0_visual.mtl : OBJ con RGB por vértice (extensión no estándar de OBJ).
+- MGM_converter.py : conversor Python reutilizable.
+- stage#_visual.obj + stage#_visual.mtl : OBJ con RGB por vértice (extensión no estándar de OBJ).
 - stage#_visual_standard.obj + stage#_visual_standard.mtl : OBJ estricto, sin RGB por vértice.
 
 Prueba realizada:
