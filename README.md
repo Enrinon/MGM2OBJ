@@ -24,3 +24,11 @@ I'll say this, it's a pretty early version, so you might encounter some bugs.
 **•Texture failure**
 
 Textures are not placed in the generated file
+
+<h1 align="left">How To Use</h1>
+
+To use it correctly, you need Python 3 and a terminal, then run this code:
+
+`python MGM_converter.py stage#.mgm`
+
+This will calculate the entire model of the .mgm file.
