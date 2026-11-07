@@ -9,13 +9,14 @@ A reverse-engineering project focused on understanding and extracting 3D geometr
 
 <p align="Center">More specifically Mami Tomoe TPS </p>
 
-**Features:**
+<h1 align="left">Features:</h1>
 
 •MGM geometry extraction
 
 •Wavefront OBJ export
 
-•Python-based conversion tool
+•Place Textures (I'm currently working on it)
 
-**Known Issues**
+<h1 align="left">Known Issues</h1>
+
 I'll say this upfront it's a pretty early version, so you might encounter some bugs.
