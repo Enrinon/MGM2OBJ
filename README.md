@@ -7,9 +7,13 @@ About the project
 
 A reverse-engineering project focused on understanding and extracting 3D geometry from MGM stage files.
 
+More specifically, Mami Tomoe TPS and the other 2 games
+
 Features:
 MGM geometry extraction
 
 Wavefront OBJ export
 
 Python-based conversion tool
+
+I'll say this upfront it's a pretty early version, so you might encounter some bugs.
