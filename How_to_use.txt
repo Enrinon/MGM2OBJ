@@ -1,12 +1,12 @@
 MAMI TPS - EXTRACCION VISUAL STAGE0
 
 Contenido:
-- mami_stage_visual_exporter.py : conversor Python reutilizable.
+- MGM_converter.py.py : conversor Python reutilizable.
 - stage0_visual.obj + stage0_visual.mtl : OBJ con RGB por vértice (extensión no estándar de OBJ).
-- stage0_visual_standard.obj + stage0_visual_standard.mtl : OBJ estricto, sin RGB por vértice.
+- stage#_visual_standard.obj + stage#_visual_standard.mtl : OBJ estricto, sin RGB por vértice.
 
 Prueba realizada:
-- Entrada: stage0.mgm (59,844 bytes).
+- Entrada: stage#.mgm (59,844 bytes).
 - 12 materiales.
 - 5 regiones normales y 1 región de fondo.
 - 1,509 vértices / 503 triángulos exportados.
@@ -14,13 +14,13 @@ Prueba realizada:
 - La lectura termina exactamente antes de collisionNum (74); no se exportan colisiones ni enemigos.
 
 Uso:
-  python mami_stage_visual_exporter.py stage0.mgm
+  python MGM_converter.py stage#.mgm
 
 Con texturas extraídas del APK:
-  python mami_stage_visual_exporter.py stage0.mgm --textures carpeta_texturas
+  python MGM_converter.py stage#.mgm --textures carpeta_texturas
 
 El conversor busca nombres como sky21.png, image47.png, etc. y copia las texturas encontradas junto al OBJ.
-Si tu programa 3D no acepta RGB extra en los vértices, importa stage0_visual_standard.obj.
+Si tu programa 3D no acepta RGB extra en los vértices, importa stage#_visual_standard.obj.
 El OBJ y su MTL correspondiente deben permanecer en la misma carpeta.
 
 Las coordenadas XYZ se escalan por 0.1, tal como hace FieldRegion.create().
