@@ -7,7 +7,7 @@ About the project
 
 A reverse-engineering project focused on understanding and extracting 3D geometry from MGM stage files.
 
-**More specifically, Mami Tomoe TPS and the other 2 games**
+<p align="Center">More specifically, Mami Tomoe TPS and the other 2 games</p>
 
 **Features:**
 MGM geometry extraction
