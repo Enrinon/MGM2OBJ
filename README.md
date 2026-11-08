@@ -37,4 +37,4 @@ But if you have the original textures requested by the file, run this code inste
 
 `python MGM_converter.py stage#.mgm --Texture_Folder`
 
-All of this was done with AI assistance (But I verified it)
+All of this was done with AI assistance (But I verified it and I made sure it worked well enough)
