@@ -32,3 +32,9 @@ To use it correctly, you need Python 3 and a terminal, then run this code:
 `python MGM_converter.py stage#.mgm`
 
 This will calculate the entire model of the .mgm file.
+
+But if you have the original textures requested by the file, run this code instead (It's not working yet):
+
+`python MGM_converter.py stage#.mgm --Texture_Folder`
+
+All of this was done with AI assistance (But I verified it)
