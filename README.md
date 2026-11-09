@@ -27,7 +27,7 @@ Textures are not placed in the generated file
 
 <h1 align="left">How To Use</h1>
 
-You can clone this repository to your device or download the files directly
+You can download the files in releases
 
 To use it correctly, you need Python 3 and a terminal, then run this code:
 
