@@ -23,7 +23,7 @@ I'll say this, it's a pretty early version, so you might encounter some bugs.
 
 **•Texture failure**
 
-Textures are not placed in the generated file
+Textures are not placed in the generated file ( i'm not sure)
 
 <h1 align="left">How To Use</h1>
 
